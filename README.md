@@ -1,6 +1,7 @@
 # CV
 
 - CV en une page unique
+- Modifiable facilement
 
 [ ] Séparation en sous fichier (Via fetch)  
 [ ] Cards / placeHolder  
